@@ -38,16 +38,17 @@
           3. - Elektronski unos izostanaka
           4. - Elektronsko zakljucivanje ocena
           5. - Email obavjestenja o stanju ucenika za roditelje (1 mjesecno)
-          6. - Stampa svjedocanstva iz elektronskog dnevnika
-          7. - Statistika za razredne starjesine
-          8. - Statistika za odeljenska vijeca
-          9. - Statistika po predmetima
-          10. - Datum za roditeljske sastanke ( email obavjestenje )
-      
+          6. - Email obavjestenja  za roditeljske sastanke 
+          7. - Stampa svjedocanstva iz elektronskog dnevnika
+          8. - Statistika za razredne starjesine
+          9. - Statistika za odeljenska vijeca
+          10. - Statistika po predmetima
+          
       Ko ima pristup e-dnevniku?
           (a) - Direktori skola i radnici u pedagoskim sluzbama imaju pun pristup  elektronskom dnevniku
           (b) - Predmetni nastavnici imaju pristup samo onim podacima ucenika koji pohadjaju njihove predmete
           (c) - Razredne starjesine imaju pristup svim podacima o uceniku svoga razreda
+          (d) - Administracija ima pristup  unosu  podataka u bazu podataka  ( brisanje podataka samo direktor, zamjenik )
         
       Od cega se sastoji informacioni sistem e-Dnevnik ?
            E-Dnevnik se sastoji od baze podataka ucenika i grafickog korisnickog
