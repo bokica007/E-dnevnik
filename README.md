@@ -13,7 +13,7 @@
          odjeljenjima u skoli i olaksati i prosiriti upotrebu i koristenje razredne
          knjige.
          Dok u klasicnom dnevniku profesor upisuje casove i odsutne ucenike rucno,
-         u elektronskom dnevniku postoje predefinisane stavke koje profesor potvrdjuje
+         u elektronskom dnevniku postoje predefinisane stavke koje profesor potvrdjuje
          jednim klikom.
 
      
@@ -24,8 +24,8 @@
           Za razliku od tradicionalnog pristupa administraciji, elektronski pristup je
           veoma brzi, pa profesori mogu vise vremena da posvete radu sa ucenicima i
           osmisljavanju kreativne nastave.
-          Osnovna funkcija elektronskog dnevnika jeste da posreduje izmeu nastavnika
-          i ucenika, ali i izmeu nastavnika i roditelja.
+          Osnovna funkcija elektronskog dnevnika jeste da posreduje izmedju nastavnika
+          i ucenika, ali i izmedju nastavnika i roditelja.
           Digitalizacijom klasicnog skolskog dnevnika koji se obicno koristi u skolama,
           dolazi do nekih inovacija koje nisu postojale ranije.
           Zahvaljujuci upotrebi elektronskog dnevnika u nastavi, nema neobjektivnosti
@@ -47,7 +47,7 @@
       Ko ima pristup e-dnevniku?
           (a) -Direktori skola i radnici u pedagoskim sluzbama imaju pun pristup  elektronskom dnevniku
           (b) -Predmetni nastavnici imaju pristup samo podacima o svom predmetu
-          (c) - Razredne starjesine imaju pristup svim podacima o uceniku svoga  razreda
+          (c) - Razredne starjesine imaju pristup svim podacima o uceniku svoga razreda
         
       Od cega se sastoji informacioni sistem e-Dnevnik ?
            E-Dnevnik se sastoji od baze podataka ucenika i grafickog korisnickog
@@ -56,5 +56,5 @@
           
       Kako se implementira informacioni sistem e-Dnevnik ?
           Implemetira se pomocu sledecih tehnologija :
-          - MySql (http://www.mysql.com- Structured Query Language)    baza podataka
+          - MySql (http://www.mysql.com- Structured Query Language) - baza podataka
           - Microsoft Visual studio 2015.2 ( https://www.visualstudio.com )
