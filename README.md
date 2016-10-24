@@ -45,8 +45,8 @@
           10. - Datum za roditeljske sastanke ( email obavjestenje )
       
       Ko ima pristup e-dnevniku?
-          (a) -Direktori skola i radnici u pedagoskim sluzbama imaju pun pristup  elektronskom dnevniku
-          (b) -Predmetni nastavnici imaju pristup samo podacima o svom predmetu
+          (a) - Direktori skola i radnici u pedagoskim sluzbama imaju pun pristup  elektronskom dnevniku
+          (b) - Predmetni nastavnici imaju pristup samo onim podacima ucenika koji pohadjaju njihove predmete
           (c) - Razredne starjesine imaju pristup svim podacima o uceniku svoga razreda
         
       Od cega se sastoji informacioni sistem e-Dnevnik ?
