@@ -1,61 +1,41 @@
-#
-                               Informacioni sistem : Elektronski dnevnik
+# Information system : Electronic diary                      
+### Team : Miroslav Maksimović, Dobrinko Drinić, Nevena Vasić
                       
-                      Tim : Miroslav Maksimovic, Dobrinko Drinic, Nevena Vasic
-                      
-                                      Oktobar 15, 2016
-                                      
-                                      
-                                      
-    Cilj informacionog sistema e-Dnevnik : 
+### October 15, 2016
+                                                                   
+## Goal of information system Electronic diary: 
+* Goal of project is to digitalize process of official records about class departments in school,
+facilitate and expand use of class book. 
 
-        - Cilj projekta e-Dnevnik je informatizovati proces sluzbene evidencije o razrednim
-         odjeljenjima u skoli i olaksati i prosiriti upotrebu i koristenje razredne
-         knjige.
-         Dok u klasicnom dnevniku profesor upisuje casove i odsutne ucenike rucno,
-         u elektronskom dnevniku postoje predefinisane stavke koje profesor potvrdjuje
-         jednim klikom.
+## Why we made information system Electronic diary?
 
-     
-     Zasto se pravi informacioni sistem e-Dnevnik ?
-     
-         - Ideja e-Dnevnika-a je da zainteresovanim stranama (roditelj,skola,razredni,nastavnik)
-          pruzi pravovremenu informaciju sta se desava sa decom u skoli.
-          Za razliku od tradicionalnog pristupa administraciji, elektronski pristup je
-          veoma brzi, pa profesori mogu vise vremena da posvete radu sa ucenicima i
-          osmisljavanju kreativne nastave.
-          Osnovna funkcija elektronskog dnevnika jeste da posreduje izmedju nastavnika
-          i ucenika, ali i izmedju nastavnika i roditelja.
-          Digitalizacijom klasicnog skolskog dnevnika koji se obicno koristi u skolama,
-          dolazi do nekih inovacija koje nisu postojale ranije.
-          Zahvaljujuci upotrebi elektronskog dnevnika u nastavi, nema neobjektivnosti
-          u odnosu sa ucenicima (neobjektivno ocenjivanje, pravdanje izostanaka. . . ).
+* We made it because it will help many clients (Director, teachers, parents) get opportune information about student marks in school.
+* Difference between traditional approach and electronic is that second one is faster, so techers can devote more time to  work with students.
+* Thanks to the use of electronic diary in teaching there is no partiality in relationship with students
+
+## Which assignments information system Electronic diary must achieve? 
+
+1. Electronic marks archive
+1. Electronic marks entries 
+1. Electronic absents entries 
+1. Electronic concluding ratings
+1. E-mail notifications for parents about state of students
+1. E-mail notifications for parent meetings
+1. Printable certificate for students
+1. Statistics for class teachers
+1. Statistics for department council
+1. Statistics for coruses
       
-      Koje zadatke informacioni sistem e-Dnevnik mora da izvrsava ?
-      
-          1. - Elektronska arhiva ocjena
-          2. - Elektronski unos ocena
-          3. - Elektronski unos izostanaka
-          4. - Elektronsko zakljucivanje ocena
-          5. - Email obavjestenja o stanju ucenika za roditelje (1 mjesecno)
-          6. - Email obavjestenja  za roditeljske sastanke 
-          7. - Stampa svjedocanstva iz elektronskog dnevnika
-          8. - Statistika za razredne starjesine
-          9. - Statistika za odeljenska vijeca
-          10. - Statistika po predmetima
-          
-      Ko ima pristup e-dnevniku?
-          (a) - Direktori skola i radnici u pedagoskim sluzbama imaju pun pristup  elektronskom dnevniku
-          (b) - Predmetni nastavnici imaju pristup samo onim podacima ucenika koji pohadjaju njihove predmete
-          (c) - Razredne starjesine imaju pristup svim podacima o uceniku svoga razreda
-          (d) - Administracija ima pristup  unosu  podataka u bazu podataka  ( brisanje podataka samo direktor, zamjenik )
+### Who has access to Electronic diary?
+*  Director has full access to electronic diary
+*  Teachers has access only to data which belongs to students who attend his courses
+*  Class teachers has access to all data which belongs to student at his department
+*  Administration has access to initial data entries into database
         
-      Od cega se sastoji informacioni sistem e-Dnevnik ?
-           E-Dnevnik se sastoji od baze podataka ucenika i grafickog korisnickog
-          interfejsa koji varira u odnosu na to koje privilegije ima dati korisnik
-          ( Direktor,predmetni nastavnik,razredni starjesina, roditelji )
-          
-      Kako se implementira informacioni sistem e-Dnevnik ?
-          Implemetira se pomocu sledecih tehnologija :
-          - MySql (http://www.mysql.com- Structured Query Language) - baza podataka
-          - Microsoft Visual studio 2015.2 ( https://www.visualstudio.com )
+## What are the parts of information system Electronic diary?
+* Electronic diary consists of students database and GUI (Graphical User Interface) which varies with respect to client privileges
+  
+## How information system Electronic diary is implemented?
+Implementation is made with:
+* [MySql](http://www.mysql.com)
+* [Microsoft Visual studio]( https://www.visualstudio.com )
